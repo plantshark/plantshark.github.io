@@ -41,8 +41,8 @@ round-avatar: true
 social-network-links:
   email: "contact@taletellingtroll.com"
   twitter: taletellingtroll
-  patreon: TaleTellingTroll
-  youtube: c/taletellingtroll
+  #patreon: TaleTellingTroll
+  #youtube: c/taletellingtroll
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
