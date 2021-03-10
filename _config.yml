@@ -14,7 +14,7 @@ author: Johannes Schober
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Blog: "index"
+  Blog: ""
   About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
