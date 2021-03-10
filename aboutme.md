@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About this blog
+title: About me
 subtitle: The human behind the troll
 ---
 
