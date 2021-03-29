@@ -7,7 +7,7 @@ tags: [dm]
 
 # Intro
 I've only got 20 Pages and 10 Encounters planned, is that too little? I prepared for X but my players did Y, help?! How do you organize your Sessions? 
-Those and many more similar questions float around the internet. Being a DM can lead to a certain degree of insecurity, but you shouldn't be insecure. You are a dungeon master, a master of dungeons, creator a worlds and destroyer of the same! Dragons and krakens appear at your will and will shiver in fear when you say so. 
+Those and many more similar questions float around the internet. Being a DM can lead to a certain degree of insecurity, but you shouldn't be insecure. You are a dungeon master, a master of dungeons, creator a worlds and destroyer of the same! Dragons and kraken appear at your will and will shiver in fear when you say so. 
 
 Preparing for sessions is something every DM does differently, there are some that really need 20 pages of planned content with 10 encounters, all backed up in a cloud. And there are some that need only one phrase written on the back of a fast food bill. Finding out how much prep you need is a thing of habit, just try out different approaches until you find something that works for you. I don't want to tell experienced DM's that they do it wrong, or to tell unexperienced DM's how they will have to do it. I just want to give my readers an insight on how i do it, since i have found out what works best for me, and i feel its a really good balance between invested work and reward. 
 
