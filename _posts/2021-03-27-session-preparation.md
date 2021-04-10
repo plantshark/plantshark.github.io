@@ -55,7 +55,8 @@ These are the people that make your world real, do them right and your campaign 
 That's it. I hope i have given you some things to think about. After all, I want you to learn something, even if you say you definitely hate my approaches. You have learned that you don't want to do it like I do and that's a win for me.
 
 # Written out Example
-#### Heres an example of the session i would have prepared in this blog post.
+Heres an example of the session i would have prepared in this blog post. As you can see there is a lot of space between the notes for improvisation. 
+
 
 > Last session the party arrived in the city of Timbershield (farmlands around, lots of trading with food, many lower class citizens). They want to search Trekor Rockslide (Dwarven Hermit, 276y old, bald, braided grey beard, harsh exterior but good of hearth), a dwarf that fought the red dragon Chaldrus 100 years ago. He can tell them about the dragon’s lair and his weaknesses. 
 
