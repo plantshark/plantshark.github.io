@@ -1,8 +1,6 @@
 ---
-title: null
-subtitle: Legal Info
+title: Legal Info
 ---
-
 
 Name: Johannes Schober  
 Address: Oberlebing 76, 4320 Allerheiligen  
