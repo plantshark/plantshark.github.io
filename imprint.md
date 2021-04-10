@@ -1,7 +1,3 @@
----
-title: null
----
-
 ## Legal Info
 
 Name: Johannes Schober  
