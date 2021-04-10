@@ -9,5 +9,5 @@ Country: Austria
 E-Mail: j.schober00@gmail.com  
 
 
-Consumers have the possibility to submit complaints to the EU's online dispute resolution platform at http://ec.europa.eu/odr.
+Consumers have the possibility to submit complaints to the EU's online dispute resolution platform at [http://ec.europa.eu/odr].
 You can also send any complaints to the e-mail address given above.
