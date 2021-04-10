@@ -5,6 +5,7 @@ subtitle: A guide for DM's
 tags: [dm]
 ---
 
+
 # Intro
 I prepared for X but my players did Y, help?! Questions like that float around the internet. Being a DM can lead to a certain degree of insecurity, but you shouldn't be insecure. You are a dungeon master, a master of dungeons, creator of worlds and destroyer of the same! Dragons and kraken appear at your will and will shiver in fear when you say so. 
 
@@ -50,8 +51,9 @@ Improvisation is probably the greatest tool in a DM's toolkit. It pretty much de
 # NPC's
 These are the people that make your world real, do them right and your campaign can be a lot more than a game, it can be a great story. For all important NPCs write down at least a few sentences on their appearance, behaviour, goals and flaws. It is definitely not required that you have a stat block for all NPC's your players meet. You also don't have to change your voice when speaking as a NPC, but try to give your speech a unique spin. Talk fast for a nervous NPC, talk slow and with long pauses for a wise old man or a really dumb ogre. You can speak grammatically incorrect for a foreigner or use fancy words for an aristocrat. 
 
+______
+
 # Written out Example
-```
 Last session the party arrived in the city of Timbershield (farmlands around, lots of trading with food, many lower class citizens). They want to search Trekor Rockslide (Dwarven Hermit, 276y old, bald, braided grey beard, harsh exterior but good of hearth), a dwarf that fought the red dragon Chaldrus 100 years ago. He can tell them about the dragon’s lair and his weaknesses. 
 
 In the city they can buy climbing gear, there is a potion shop with potions (only rarities common-uncommon). They meet a dwarf named Umnan Oakbeard (Farmer, 120y old, filled with bitterness and pessimism) he tells them that he met Trekor a few times and the hermit has gone insane, he talks about a prophecy, the dragons will unite and destroy the world. Trekor was a respectable member of dwarven society, he was chosen to defeat Chaldrus the dragon but left the clan afterwards, seemingly the encounter changed him alot.
@@ -72,11 +74,7 @@ If they make a lot of noise, they could attract bandits (1x Bandit Captain, 1x A
 At the end of the day they should meet Trekor Rockslide, he either comes to them or they have to find him, depending on where and when they rest.
 
 Trekor Rockslide will tell them about prophecy. After fighting Chaldrus 100 years ago, he nearly got burned alive. He managed to jump into a river and survive. His wounds were really bad, thus he was in a mixed state of sleep and being awake, after a day he started to have weird vision about more dragons, about burning cities. He saw a volcano, which contained the heart of fire, a legendary artifact which allows one to take control of red dragons, they have to take every command from the wielder of the artifact. Trekor wants the characters to travel to the volcano and save the world.
-```
+___
 
 # Conclusion
 That's it. I hope i have given you some things to think about. After all, I want you to learn something, even if you say you definitely hate my approaches. You have learned that you don't want to do it like I do and that's a win for me.
-
-code {
-  white-space : pre-wrap !important;
-}
