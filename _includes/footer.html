@@ -24,6 +24,10 @@
         </span>
       {% endif %}
 
+		{% if site.impressum %}
+		  <h2><a href="{{ site.baseurl }}{{ page.url }}">{{ site.impressum }}</a></h2>
+		{% endif%}
+
       {% if site.matomo %}
         {% if site.matomo.opt-out %}
           &nbsp;&bull;&nbsp;
