@@ -1,5 +1,6 @@
 ---
-title: Legal Info
+title: 
+subtitle: Legal Info
 ---
 
 
