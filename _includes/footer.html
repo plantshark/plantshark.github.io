@@ -23,10 +23,11 @@
           <a href="{% if site.url-canonical %}{{ site.url-canonical }}{% else %}{{ '' | absolute_url }}{% endif %}">{{ site.url-pretty }}</a>
         </span>
       {% endif %}
-
-	{% if site.impressum %}
-	  <a href="{{ site.baseurl }}{{ site.impressum }}">{{ site.impressum }}</a>
-	{% endif%}
+	  
+        &nbsp;&bull;&nbsp;
+		
+	   <!-- Impressum -->
+	   <a href="{{ site.baseurl }}imprint">Legal Info</a>
 
       {% if site.matomo %}
         {% if site.matomo.opt-out %}
