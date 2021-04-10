@@ -77,3 +77,6 @@ Trekor Rockslide will tell them about prophecy. After fighting Chaldrus 100 year
 # Conclusion
 That's it. I hope i have given you some things to think about. After all, I want you to learn something, even if you say you definitely hate my approaches. You have learned that you don't want to do it like I do and that's a win for me.
 
+code {
+  white-space : pre-wrap !important;
+}
