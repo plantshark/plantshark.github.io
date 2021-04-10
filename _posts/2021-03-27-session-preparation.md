@@ -61,9 +61,9 @@ That's it. I hope i have given you some things to think about. After all, I want
 
 > In the city they can buy climbing gear, there is a potion shop with potions (only rarities common-uncommon). They meet a dwarf named Umnan Oakbeard (Farmer, 120y old, filled with bitterness and pessimism) he tells them that he met Trekor a few times and the hermit has gone insane, he talks about a prophecy, the dragons will unite and destroy the world. Trekor was a respectable member of dwarven society, he was chosen to defeat Chaldrus the dragon but left the clan afterwards, seemingly the encounter changed him alot.
 
-> There are alot of thieves and beggars in the city, maybe someone tries to steal something from the players if the moment is right.
+> There are alot of thieves and beggars in the city, maybe someone tries to steal something from the players if the moment is right (DC 16 Perception check to notice).
 
-> A few hours walk outside the city a elven forest begins, the wood elves are skeptical of outsiders and will ambush them, asking what they want, trying to get rid of intruders as soon as possible. They got orders to first try to talk peacefully, but they won’t hesitate to attack if any player talks about damaging the forest or harming animals inside (even if it’s said jokingly). Up to 8 elven archers (Scout stat block) attack, if at least 2 are slain, the elves retreat and leave the party alone.
+> A few hours walk outside the city a elven forest begins, the wood elves are skeptical of outsiders and will ambush them, asking what they want, trying to get rid of intruders as soon as possible. They got orders to first try to talk peacefully (DC 15 Persuasion Check to convince the elves to let them pass), but they won’t hesitate to attack if any player talks about damaging the forest or harming animals inside (even if it’s said jokingly). Up to 8 elven archers (Scout stat block) attack, if at least 2 are slain, the elves retreat and leave the party alone.
 
 > If the party fights the elves, they will retaliate as soon as the party rests inside or just outside the forest. If they resolved it peacefully, the elves help them get to the mountain range quicker and share their food with them.
 
