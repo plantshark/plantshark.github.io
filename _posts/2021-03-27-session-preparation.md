@@ -16,6 +16,8 @@ The exception of course are notes related to the session. Which include monster 
 Not long ago I ran a session where my players found a desperate woman alone on the street. She asked them to help rescue her husband who got kidnapped by a bunch of fire beasts. They tracked the beasts back to their dungeon and fought against burning insects, escaped hot steamy traps, allied with the kidnappers to defeat their tyrant leader who kept the husband in a cage. The whole dungeon took roughly two sessions, 4 hours each, to complete. 
 My notes for those two sessions were one and a half pages describing the dungeon and nothing more. Those one and a half pages lasted for 8 hours of play! It took me roughly only one to two hours to write them up. So one hour of preparation for 4 hours of play, seems like a pretty good deal. Now i'll tell you what i keep in mind while preparing for a session, we'll work on an example session together.
 
+<br>  
+
 # Keep it manageable
 First we think about where the players currently are, what they could do there, and where we want them to go next. 
 Let's say they are currently in a city and have to find a dwarven hermit in the dreadful mountains, they might need a guide or maybe they want to buy climbing gear. It would be cool if they met a dwarf living in the city that tells them about the hermit, some interesting backstory why he is not with his clan. It will help the characters look forward to the hermit, Trekor Rockslide is no longer a name they have heard from the last NPC they met. It's now a name that has been mentioned twice, the hermit will feel more real, he is something that really exists in this world.
@@ -26,6 +28,8 @@ After they dealt with the elves they arrive at the base of the mountains. They w
 
 Usually i want my session to end on a hook for the next session, i want to give them something to think about. Otherwise you might have disoriented players at the start of the next session. In my example we could have them finish the rest just to have Trekor appear in the morning, mysteriously standing in fron of them as the first sunshine begins to light up the cave. Or if we still want to play a little longer we could have him talk to them, explain that their quest is more than they think, they have to stop a great evil before its too late, we could reveal something big. And before the players spike Trekor with questions we end the session. But be aware, using cliffhangers every single session will be exhausting, if we use them too frequently the players won't care about them anymore.
 
+<br>  
+
 # Complications
 There are many ways to build in complications, they are after all what make the story interesting. If the players go from the city to the hermit without a problem they won't feel that they accomplished something. Players need to have something they can feel proud of. The charismatic bard wants to find the best price for potions in the city, the druid wants to sympathize with the wood elves, the ranger wants to make the mountain climb easier and the barbarian wants to fight something. 
 
@@ -34,13 +38,19 @@ There are many forms of complications, the most common being a combat encounter.
 Try to have at least one complication happen at every point of interest. Including settlements, forests, ruins, lakes or mountains. If no complications happen, at least have a small social encounter ready: "The players come across a river but there is a bridge, a human boy sits on the bridge with a fishing rod in his hand. Excitedly he asks them about their adventures before focusing on fishing again." or "The group rests in the spooky forest, suddenly thick fog appears out of nowhere, they all see ghostly appearances of animals jumping around them. A ghostly fox steals some of their provisions. After five seconds the fog disappears, and with it the animals."
 Having little events like these just make the world feel more alive, the spooky forest has a backstory, even though it's one the players don't know about.
 
+<br>  
+
 # Backstory Moments
 Every time I prepare a session I also take a short look at all of my players' backstories again. I think about things that could happen this session and I could tie to one of their backstories. Could I tie the monks' backstory to a monastery thats nearby the hermit? Will the veteran fighter know any of the guards stationed at the watchtower at the edge of the wood elves territory?
 
 It's important that the players feel like a part of your world. Otherwise they don't really care when something big happens. If a war wages between two nations and the families of your players are nothing more than names on paper, nobody cares if they die. But if your whole party met each family at least one and helped them in little side quests, they will sacrifice everything they have to save them from danger.
 
+<br>  
+
 # Rewards
 The first thing everybody will think about when hearing "rewards" will probably be magic items. But there is much more that you can give your players to make them feel rewarded. They could meet the king of the wood elves, help him with a problem and then gain a favor from him. They could do an act of great kindness by saving a beggar in the city and be rewarded with a blessing from the deity of charity. Think about what your players could gain until the end of the session that increases their power, directly or indirectly. An underappreciated reward in many DnD groups is inspiration, you can give the players a point of inspiration, which enables them to reroll a dice once. And lastly, the greatest reward of them all, levelling up. It's the best feeling of progression you can give your players.
+
+<br>  
 
 # Improvisation
 Always try to keep your session notes loosely tied together, so that you can leave room for improvisation and player choices. Try to not railroad your players straight down a path, without any choices that influence it. Of course, if it's important for your story, you can send them down a predefined path. But there should be many little choices (with differentiable consequences!) along it.
@@ -48,8 +58,12 @@ Always try to keep your session notes loosely tied together, so that you can lea
 Improvisation is probably the greatest tool in a DM's toolkit. It pretty much defines how much preparation you need to run a smooth and pleasant session. It's something that needs a lot of training to master, but once you've got the hang of it, you will greatly increase the flow and fun of your sessions.
  
 
+<br>  
+
 # NPC's
 These are the people that make your world real, do them right and your campaign can be a lot more than a game, it can be a great story. For all important NPCs write down at least a few sentences on their appearance, behaviour, goals and flaws. It is definitely not required that you have a stat block for all NPC's your players meet. You also don't have to change your voice when speaking as a NPC, but try to give your speech a unique spin. Talk fast for a nervous NPC, talk slow and with long pauses for a wise old man or a really dumb ogre. You can speak grammatically incorrect for a foreigner or use fancy words for an aristocrat. 
+
+<br>  
 
 # Conclusion
 That's it. I hope i have given you some things to think about. After all, I want you to learn something, even if you say you definitely hate my approaches. You have learned that you don't want to do it like I do and that's a win for me.
