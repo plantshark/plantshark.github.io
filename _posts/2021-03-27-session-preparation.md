@@ -51,30 +51,30 @@ Improvisation is probably the greatest tool in a DM's toolkit. It pretty much de
 # NPC's
 These are the people that make your world real, do them right and your campaign can be a lot more than a game, it can be a great story. For all important NPCs write down at least a few sentences on their appearance, behaviour, goals and flaws. It is definitely not required that you have a stat block for all NPC's your players meet. You also don't have to change your voice when speaking as a NPC, but try to give your speech a unique spin. Talk fast for a nervous NPC, talk slow and with long pauses for a wise old man or a really dumb ogre. You can speak grammatically incorrect for a foreigner or use fancy words for an aristocrat. 
 
-______
+# Conclusion
+That's it. I hope i have given you some things to think about. After all, I want you to learn something, even if you say you definitely hate my approaches. You have learned that you don't want to do it like I do and that's a win for me.
 
 # Written out Example
-Last session the party arrived in the city of Timbershield (farmlands around, lots of trading with food, many lower class citizens). They want to search Trekor Rockslide (Dwarven Hermit, 276y old, bald, braided grey beard, harsh exterior but good of hearth), a dwarf that fought the red dragon Chaldrus 100 years ago. He can tell them about the dragon’s lair and his weaknesses. 
+#### Heres an example of the session i would have prepared in this blog post.
 
-In the city they can buy climbing gear, there is a potion shop with potions (only rarities common-uncommon). They meet a dwarf named Umnan Oakbeard (Farmer, 120y old, filled with bitterness and pessimism) he tells them that he met Trekor a few times and the hermit has gone insane, he talks about a prophecy, the dragons will unite and destroy the world. Trekor was a respectable member of dwarven society, he was chosen to defeat Chaldrus the dragon but left the clan afterwards, seemingly the encounter changed him alot.
+> Last session the party arrived in the city of Timbershield (farmlands around, lots of trading with food, many lower class citizens). They want to search Trekor Rockslide (Dwarven Hermit, 276y old, bald, braided grey beard, harsh exterior but good of hearth), a dwarf that fought the red dragon Chaldrus 100 years ago. He can tell them about the dragon’s lair and his weaknesses. 
 
-There are alot of thieves and beggars in the city, maybe someone tries to steal something from the players if the moment is right.
+> In the city they can buy climbing gear, there is a potion shop with potions (only rarities common-uncommon). They meet a dwarf named Umnan Oakbeard (Farmer, 120y old, filled with bitterness and pessimism) he tells them that he met Trekor a few times and the hermit has gone insane, he talks about a prophecy, the dragons will unite and destroy the world. Trekor was a respectable member of dwarven society, he was chosen to defeat Chaldrus the dragon but left the clan afterwards, seemingly the encounter changed him alot.
 
-A few hours walk outside the city a elven forest begins, the wood elves are skeptical of outsiders and will ambush them, asking what they want, trying to get rid of intruders as soon as possible. They got orders to first try to talk peacefully, but they won’t hesitate to attack if any player talks about damaging the forest or harming animals inside (even if it’s said jokingly). Up to 8 elven archers (Scout stat block) attack, if at least 2 are slain, the elves retreat and leave the party alone.
+> There are alot of thieves and beggars in the city, maybe someone tries to steal something from the players if the moment is right.
 
-If the party fights the elves, they will retaliate as soon as the party rests inside or just outside the forest. If they resolved it peacefully, the elves help them get to the mountain range quicker and share their food with them.
+> A few hours walk outside the city a elven forest begins, the wood elves are skeptical of outsiders and will ambush them, asking what they want, trying to get rid of intruders as soon as possible. They got orders to first try to talk peacefully, but they won’t hesitate to attack if any player talks about damaging the forest or harming animals inside (even if it’s said jokingly). Up to 8 elven archers (Scout stat block) attack, if at least 2 are slain, the elves retreat and leave the party alone.
 
-To climb the mountain the players will have to succeed on three climbing checks (they have advantage on the rolls with climbing gear).
+> If the party fights the elves, they will retaliate as soon as the party rests inside or just outside the forest. If they resolved it peacefully, the elves help them get to the mountain range quicker and share their food with them.
+
+> To climb the mountain the players will have to succeed on three climbing checks (they have advantage on the rolls with climbing gear).
 DC 13 Athletics Check => 2d4 bludgeoning damage on a fail
 DC 16 Athletics Check => 5d4 bludgeoning damage + 1 exhaustion level on a fail 
 DC 14 Athletics Check => 3d4 bludgeoning damage on a fail
 
-If they make a lot of noise, they could attract bandits (1x Bandit Captain, 1x Archer, 5 Bandits).
+> If they make a lot of noise, they could attract bandits (1x Bandit Captain, 1x Archer, 5 Bandits).
 
-At the end of the day they should meet Trekor Rockslide, he either comes to them or they have to find him, depending on where and when they rest.
+> At the end of the day they should meet Trekor Rockslide, he either comes to them or they have to find him, depending on where and when they rest.
 
-Trekor Rockslide will tell them about prophecy. After fighting Chaldrus 100 years ago, he nearly got burned alive. He managed to jump into a river and survive. His wounds were really bad, thus he was in a mixed state of sleep and being awake, after a day he started to have weird vision about more dragons, about burning cities. He saw a volcano, which contained the heart of fire, a legendary artifact which allows one to take control of red dragons, they have to take every command from the wielder of the artifact. Trekor wants the characters to travel to the volcano and save the world.
-___
+> Trekor Rockslide will tell them about prophecy. After fighting Chaldrus 100 years ago, he nearly got burned alive. He managed to jump into a river and survive. His wounds were really bad, thus he was in a mixed state of sleep and being awake, after a day he started to have weird vision about more dragons, about burning cities. He saw a volcano, which contained the heart of fire, a legendary artifact which allows one to take control of red dragons, they have to take every command from the wielder of the artifact. Trekor wants the characters to travel to the volcano and save the world. 
 
-# Conclusion
-That's it. I hope i have given you some things to think about. After all, I want you to learn something, even if you say you definitely hate my approaches. You have learned that you don't want to do it like I do and that's a win for me.
