@@ -1,7 +1,5 @@
 ---
-layout: 
-title: 
-subtitle: 
+title: null
 ---
 
 ## Legal Info
