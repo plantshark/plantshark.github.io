@@ -95,6 +95,6 @@ DC 14 Athletics Check => 3d4 bludgeoning damage on a fail
 
 > At the end of the day they should meet Trekor Rockslide, he either comes to them or they have to find him, depending on where and when they rest.
 
-> Trekor Rockslide will tell them about prophecy. After fighting Chaldrus 100 years ago, he nearly got burned alive. He managed to jump into a river and survive. His wounds were really bad, thus he was in a mixed state of sleep and being awake, after a day he started to have a weird vision about more dragons, about burning cities. He saw a volcano, which contained the heart of fire, a legendary artifact that allows one to take control of red dragons, they have to take every command from the wielder of the artifact. Trekor wants the characters to travel to the volcano and save the world. 
+> Trekor Rockslide will tell them about a prophecy. After fighting Chaldrus 100 years ago, he nearly got burned alive. He managed to jump into a river and survive. His wounds were really bad, thus he was in a mixed state of sleep and being awake, after a day he started to have a weird vision about more dragons, about burning cities. He saw a volcano, which contained the heart of fire, a legendary artifact that allows one to take control of red dragons, they have to take every command from the wielder of the artifact. Trekor wants the characters to travel to the volcano and save the world. 
 
 
