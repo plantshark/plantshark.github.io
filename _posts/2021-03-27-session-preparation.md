@@ -6,7 +6,6 @@ tags: [dm]
 ---
 
 
-# Intro
 I prepared for X but my players did Y, help?! Questions like that float around the internet. Being a DM can lead to a certain degree of insecurity, but you shouldn't be insecure. You are a dungeon master, a master of dungeons, creator of worlds, and destroyer of the same! Dragons and Kraken appear at your will and will shiver in fear when you say so. 
 
 Preparing for sessions is something every DM does differently, some want 20 pages of planned content with 10 encounters. And some only need one phrase written on the back of a fast-food bill. Finding out how much prep you need is a thing of habit, just try out different approaches until you find something that works for you. I don't want to tell experienced DM's that they do it wrong, or to tell inexperienced DM's how they will have to do it. I just want to give my readers an insight into how I do it, since I have found out what works best for me, and I feel it's a really good balance between invested work and reward. 
