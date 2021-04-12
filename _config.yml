@@ -210,6 +210,12 @@ defaults:
     values:
       layout: "page"
 
+
+jekyll_analytics:
+  GoogleAnalytics:          # Add, if you want to track with Google Analytics
+    id: G-CBW4HTEY1T          # Required - replace with your tracking id
+    anonymizeIp: true      # Optional - Default: false - set to true for anonymized tracking
+
 # Exclude these files from production site
 exclude:
   - CHANGELOG.md
@@ -225,6 +231,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-analytics
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
