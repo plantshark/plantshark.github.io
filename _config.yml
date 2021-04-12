@@ -33,7 +33,7 @@ round-avatar: true
 # then specify the following parameter
 #title-img: "/assets/img/logo.png"
 
-
+  
 # --- Footer social media links --- #
 
 # Select the social network links that you want to show in the footer.
@@ -211,6 +211,10 @@ defaults:
       layout: "page"
 
 
+url: "https://taletellingtroll.com" # the base hostname & protocol for your site
+plugins:
+  - jekyll-sitemap
+
 # Exclude these files from production site
 exclude:
   - CHANGELOG.md
@@ -226,6 +230,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-last-modified-at
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
