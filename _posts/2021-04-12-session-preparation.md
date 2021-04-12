@@ -2,7 +2,7 @@
 layout: post
 title: Preparing a Session
 subtitle: A guide for DM's
-cover-img: "/assets/img/1-session-preperation-cover.jpg"
+cover-img: ["/assets/img/1-session-preperation-cover.jpg": "Photo by https://www.etsy.com/shop/PersonalisedFor" ]
 tags: [dm]
 ---
 
