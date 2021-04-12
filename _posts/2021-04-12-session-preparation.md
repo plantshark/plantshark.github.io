@@ -65,8 +65,9 @@ These are the people that make your world real, do them right and your campaign 
 <br>  
 
 # Conclusion
+I guess what I want to say is, that everybody needs to find their own style, DMing is an art form, where the most important tool is improvisation. Try to deliberately leave little spaces in between your notes to be forced to improvise when you get to them.
 That's it. I hope I have given you some things to think about. After all, I want you to learn something, even if you say you hate my approaches. You have learned that you don't want to do it as I do and that's a win for me.
-  
+   
 <br>  
 
 <br>  
