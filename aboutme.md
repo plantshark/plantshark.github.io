@@ -13,5 +13,7 @@ In my opinion the journey to grow as a player, dungeon master and overall as a p
 
 I try to keep my posts as system neutral as possible, but i will often use examples from the one game i play myself and thats D&D 5th Edition.
 
+Please follow me on [Twitter](https://twitter.com/TaleTellTroll) to be notified about new posts and other fun discussions.
+
 {: .box-warning}
 **Keep in mind:** Everything i write about here is my own opinion, everybody has one of those. But i'm not really protective of mine, whenever you don't agree with it, i would love to have a constructive conversation about that. 
