@@ -32,7 +32,7 @@ Usually, I want my session to end on a hook for the next session, I want to give
 <br>  
 
 # Complications
-There are many ways to build in complications, they are after what makes the story interesting. If the players go from the city to the hermit without a problem they won't feel that they accomplished something. Players need to have something they can feel proud of. The charismatic bard wants to find the best price for potions in the city, the druid wants to sympathize with the wood elves, the ranger wants to make the mountain climb easier and the barbarian wants to fight something. 
+There are many ways to build in complications, they are after all what makes the story interesting. If the players go from the city to the hermit without a problem they won't feel that they accomplished something. Players need to have something they can feel proud of. The charismatic bard wants to find the best price for potions in the city, the druid wants to sympathize with the wood elves, the ranger wants to make the mountain climb easier and the barbarian wants to fight something. 
 
 There are many forms of complications, the most common being a combat encounter. But everything that might drain resources from the players is a complication, having to persuade a guard might cost a charm spell. Dealing with an uncrossable river the druid has to shapeshift into a crocodile to get everyone across. I also like to use time as a resource in my campaigns. If the players want to stay with the wood elves and party for a few days, maybe the hermit is captured by the mountain bandits. And the players will now have to free him before being able to talk to him.
 
