@@ -7,7 +7,7 @@
 Name: Johannes Schober  
 Address: Oberlebing 76, 4320 Allerheiligen  
 Country: Austria  
-E-Mail: j.schober00@gmail.com  
+E-Mail: taletellingtroll@gmail.com 
 
 Blog content: Experiences and tips regarding roleplaying games
 
