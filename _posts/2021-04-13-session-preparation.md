@@ -3,6 +3,7 @@ layout: post
 title: Preparing a Session
 subtitle: Sharing my insights
 readtime: true
+last-updated: "2021-04-24"
 cover-img: ["/assets/img/1-session-preperation-cover.jpg": "Photo by https://www.etsy.com/shop/PersonalisedFor" ]
 tags: [dm, session-prep]
 ---

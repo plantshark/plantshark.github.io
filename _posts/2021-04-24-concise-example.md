@@ -3,11 +3,9 @@ layout: post
 title: Session notes example
 subtitle: Preparing a Session (1)
 readtime: true
+thumbnail-img: /assets/img/2-example.jpeg
 tags: [dm, session-prep]
 ---
-
-
-![Example image](/assets/img/2-example.jpeg )
 
 First, think about where the players currently are, what they could do there, and where you want them to go next. 
 Let's say they are currently in a city and have to find a dwarven hermit in the dreadful mountains, they might need a guide or maybe they want to buy climbing gear. It would be cool if they met a dwarf living in the city that tells them about the hermit, some interesting backstory of why he is not with his clan. It will help the characters look forward to the hermit, Trekor Rockslide is no longer a name they have heard from the last NPC they met. It's now a name that has been mentioned twice, the hermit will feel more real, he is something that exists in this world.
@@ -17,6 +15,7 @@ So the session starts in the city, having lots of NPCs talking with the players.
 After they dealt with the elves they arrive at the base of the mountains. They will have to climb at some points, make them roll a few checks to see if they succeed without problems. Make it easier for them if they bought climbing gear in the city. You could plan an alternative encounter with some mountain bandits or monsters if the players resolved the wood elves encounter peacefully (some groups will yearn for at least one combat per session). And finally, maybe after a night's rest in a cave, they meet Trekor Rockslide, the hermit that can help them finish their quest.
 
 Usually, I want my session to end on a hook for the next session, I want to give them something to think about. Otherwise, you might have disoriented players at the start of the next session. In my example the players could have finished the rest just to have Trekor appear in the morning, mysteriously standing in front of them as the first sunshine begins to light up the cave. Or if you still want to play a little longer you could have him talk to them, explain that their quest is more than they think, they have to stop a great evil before it’s too late, you could reveal something big. And before the players spike Trekor with questions you end the session. But be aware, using cliffhangers every single session will be exhausting, if you use them too frequently the players won't care about them anymore.
+
 
 <br>  
 
@@ -45,3 +44,7 @@ DC 14 Athletics Check => 3d4 bludgeoning damage on a fail
 
 > Trekor Rockslide will tell them about a prophecy. After fighting Chaldrus 100 years ago, he nearly got burned alive. He managed to jump into a river and survive. His wounds were really bad, thus he was in a mixed state of sleep and being awake, after a day he started to have a weird vision about more dragons, about burning cities. He saw a volcano, which contained the heart of fire, a legendary artifact that allows one to take control of red dragons, they have to take every command from the wielder of the artifact. Trekor wants the characters to travel to the volcano and save the world. 
 
+
+Below you can see an example of notes I prepared for a session and which lasted for about 7 hours of play time.
+ 
+![Example image](/assets/img/2-example.jpeg )
