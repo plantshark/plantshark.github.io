@@ -1,0 +1,1 @@
+You also don't have to change your voice when speaking as an NPC but try to give your speech a unique spin. Talk fast for a nervous NPC, talk slow and with long pauses for a wise old man or a dumb ogre. You can speak grammatically incorrect for a foreigner or use fancy words for an aristocrat. 
