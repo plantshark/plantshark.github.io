@@ -3,6 +3,7 @@ layout: post
 title: Complications
 subtitle: Preparing a Session (2)
 readtime: true
+thumbnail-img: /assets/img/3-trap.jpg
 tags: [dm, session-prep]
 ---
 
