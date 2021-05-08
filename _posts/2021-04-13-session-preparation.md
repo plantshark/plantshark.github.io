@@ -19,11 +19,11 @@ Be sure to read the session example in the first link to better understand the e
 I try to keep my session notes tidy and simple. Two A4 Pages at most, most of the time it’s half a page to one page long. When you have your notes laying before you while running the session you want to see what's happening next and you want to know what you are currently doing without having to flip through a small novel. Follow the link to see an example of how I write down my notes.
 
 
-## Complications
+## [Complications (link)]({% post_url 2021-05-08-complications %} "Link to detailed post")
 There are many ways to build in complications, they are after all what makes the story interesting. If the players go from A to B without a problem they won't feel that they accomplished something. Players need to have something they can feel proud of. The charismatic bard wants to find the best price for potions in the city, the druid wants to sympathize with the wood elves, the ranger wants to make the mountain climb easier and the barbarian wants to fight something. 
 
 
-## Player Agency 
+## Player Backstories
 Every time I prepare a session I also take a short look at all of my players' backstories again. I think about things that could happen this session and I could tie them to one of their backstories. These ties often animate the players to do something, they create agency. Could I tie the monks' backstory to a monastery that's nearby the hermit? Will the veteran fighter know any of the guards stationed at the watchtower at the edge of the wood elves territory?
 
 
